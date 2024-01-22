@@ -9,3 +9,4 @@ This repository contains the complete Interactive Power BI Visual used in the cr
 # Report 2
 ![Report_2](https://github.com/navanitkumar121/Amazon-Global-Dashboard-PowerBI/assets/86871749/b866e459-db6e-41b5-90e0-245bdce56158)
 # Year-Wise Report 2
+![Report_2_Yearwise](https://github.com/navanitkumar121/Amazon-Global-Dashboard-PowerBI/assets/86871749/ab3f1b20-34c5-4577-9955-ec5b6386edc0)
